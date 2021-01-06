@@ -7,7 +7,7 @@
 #game{
     width:500px;
     height:200px;
-    margin:auto;
+    margin:0 auto;
     border:1px solid black;
 }
 #character{
